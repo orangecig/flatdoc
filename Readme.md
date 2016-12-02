@@ -1,4 +1,4 @@
-Flatdoc
+NEW
 =======
 
 Flatdoc is a small JavaScript file that fetches Markdown files and renders them
