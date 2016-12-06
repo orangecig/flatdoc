@@ -1,9 +1,6 @@
 NEW
 =======
-
-Flatdoc is a small JavaScript file that fetches Markdown files and renders them
-as full pages. Essentially, it's the easiest
-way to make open source documentation from *Readme* files.
+TESTing 
 
  * No server-side components
  * No build process needed
